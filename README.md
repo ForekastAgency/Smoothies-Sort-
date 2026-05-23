@@ -10,7 +10,7 @@ SIRET: 99939711000019
 Country: France (European Union)
 Contact: 
 forekastpro@gmail.com
-Website: https://forekast.fr/smoothies_sort
+Website: https://github.com/ForekastAgency/Smoothies-Sort-/tree/main
 Forekast acts as the data controller within the meaning of the General Data Protection Regulation (GDPR — Regulation (EU) 2016/679).
 
 Introduction
@@ -205,7 +205,7 @@ For any privacy-related questions, requests, or concerns:
 
 📧 Email: 
 forekastpro@gmail.com
- 🌐 Website: https://forekast.fr/smoothies_sort 🏢 Legal entity: Forekast — SIRET 99939711000019 — France
+ 🌐 Website: https://github.com/ForekastAgency/Smoothies-Sort-/tree/main 🏢 Legal entity: Forekast — SIRET 99939711000019 — France
 
 We aim to respond to all requests within 30 days.
 
@@ -421,7 +421,7 @@ Pour toute question, demande ou préoccupation relative à la confidentialité :
 
 📧 E-mail : 
 forekastpro@gmail.com
- 🌐 Site Web : https://forekast.fr/smoothies_sort 🏢 Entité légale : Forekast — SIRET 99939711000019 — France
+ 🌐 Site Web : https://github.com/ForekastAgency/Smoothies-Sort-/tree/main 🏢 Entité légale : Forekast — SIRET 99939711000019 — France
 
 Nous nous efforçons de répondre à toutes les demandes dans un délai de 30 jours.
 
