@@ -24,6 +24,7 @@ We do not require you to create an account. We do not ask for or collect your na
 
 1.2 Game Progress & Local Storage
 Your game progress (levels completed, unlocked skins, boosters, in-game currency, settings) is stored locally on your device using the device's standard local storage. We have no access to this data.
+If you have enabled Google Play Games (on Android) or Game Center (on iOS), your progress may also be backed up to the cloud. This is managed entirely by Google or Apple under their own privacy policies.
 
 If you have enabled Google Play Games, your progress may also be backed up to Google's cloud save infrastructure. This is managed entirely by Google under their own privacy policy. We have no access to your Google Play Games data.
 
@@ -31,6 +32,7 @@ Legal basis (GDPR): Legitimate interest (Article 6(1)(f)) — necessary to provi
 
 1.3 In-App Purchases
 Smoothie Sort offers optional in-app purchases (e.g., cosmetic skins, boosters, removal of ads) through Google Play Billing. All payment processing is handled exclusively by Google. We do not receive, store, or have access to any financial information, such as credit or debit card numbers.
+Smoothie Sort offers optional in-app purchases through the billing systems of Google Play (Android) or Apple's App Store (iOS).
 
 Google may share with us confirmation that a purchase was completed (e.g., a purchase token), which we store locally on your device solely to unlock the purchased content.
 
@@ -86,7 +88,7 @@ Legal basis (GDPR): Legitimate interest (Article 6(1)(f)) — maintaining a stab
 1.6 Device Identifiers & SDK Tracking Technologies
 Third-party SDKs integrated in the Game (specifically the Google Mobile Ads SDK and AppLovin SDK) use device-level identifiers that function similarly to cookies in a browser context. These include:
 
-Android Advertising ID (AAID): A resettable, user-controlled identifier used for ad personalization. You can reset or delete it at any time via your device settings.
+IDFA (iOS) Android Advertising ID (AAID): A resettable, user-controlled identifier used for ad personalization. You can reset or delete it at any time via your device settings.
 Instance IDs / SDK-internal tokens: Used by ad SDKs for session management and frequency capping.
 No persistent cookies are stored by Smoothie Sort itself.
 
@@ -104,11 +106,16 @@ We do not sell your personal data to any third party.
 
 3. Third-Party Services
 Service	Provider	Purpose	Privacy Policy
-Google Play & Billing	Google LLC, USA	App distribution, in-app purchases	https://policies.google.com/privacy
-Google Play Games	Google LLC, USA	Optional cloud save	https://policies.google.com/privacy
-Google Mobile Ads SDK	Google LLC, USA	Ad mediation & UMP consent	https://policies.google.com/privacy
-AppLovin MAX	AppLovin Corp., USA	Ad serving & mediation	https://www.applovin.com/privacy/
-We are not responsible for the data practices of these third parties.
+Google Play & Billing	Google LLC, USA	App distribution and in-app purchases (Android)	Google Privacy Policy
+App Store & Billing	Apple Inc., USA	App distribution and in-app purchases (iOS)	Apple Privacy Policy
+Google Play Games	Google LLC, USA	Optional progress backup to the cloud (Android)	Google Privacy Policy
+Apple Game Center	Apple Inc., USA	Optional progress backup to the cloud (iOS)	Apple Privacy Policy
+Google Mobile Ads SDK	Google LLC, USA	Ad mediation and UMP consent management	Google Privacy Policy
+AppLovin MAX	AppLovin Corp., USA	Ad serving and advertising mediation platform	AppLovin Privacy Policy
+RevenueCat	RevenueCat, Inc., USA	In-App purchase management and entitlement validation	RevenueCat Privacy Policy
+Google Firebase	Google LLC, USA	Anonymized analytics and crash reporting diagnostics	Firebase Privacy Policy
+
+
 
 4. International Data Transfers
 AppLovin Corporation and Google LLC are headquartered in the United States. When these services collect data from users in the European Economic Area, that data is transferred to the USA.
@@ -240,6 +247,7 @@ Nous ne vous demandons pas de créer un compte. Nous ne collectons pas votre nom
 
 1.2 Progression du jeu et stockage local
 Votre progression dans le jeu (niveaux terminés, verres débloqués, bonus, monnaie du jeu, paramètres) est stockée localement sur votre appareil en utilisant le stockage local standard de l'appareil. Nous n'avons pas accès à ces données.
+Si vous avez activé Google Play Jeux (sur Android) ou Game Center (sur iOS), votre progression peut également être sauvegardée sur le cloud. Ceci est géré entièrement par Google ou Apple selon leurs propres politiques.
 
 Si vous avez activé Google Play Jeux, votre progression peut également être sauvegardée sur l'infrastructure de sauvegarde cloud de Google. Ceci est géré entièrement par Google selon sa propre politique de confidentialité. Nous n'avons pas accès à vos données Google Play Jeux.
 
@@ -247,6 +255,7 @@ Base légale (RGPD) : Intérêt légitime (Article 6(1)(f)) — nécessaire pour
 
 1.3 Achats intégrés
 Smoothie Sort propose des achats intégrés facultatifs (par exemple, des verres cosmétiques, des bonus, la suppression des publicités) via Google Play Billing. Tous les paiements sont traités exclusivement par Google. Nous ne recevons pas, ne stockons pas et n'avons pas accès à vos informations financières, telles que les numéros de carte de crédit ou de débit.
+Smoothie Sort propose des achats intégrés facultatifs via les systèmes de facturation de Google Play (Android) ou de l'App Store d'Apple (iOS).
 
 Google peut partager avec nous la confirmation qu'un achat a été effectué (par exemple, un jeton d'achat), que nous stockons localement sur votre appareil uniquement pour déverrouiller le contenu acheté.
 
@@ -270,7 +279,7 @@ Ce que les partenaires publicitaires peuvent collecter
 Selon votre consentement, AppLovin et ses partenaires publicitaires peuvent collecter les données suivantes à partir de votre appareil :
 
 Type de données	Finalité
-ID publicitaire Android (AAID)	Identification de votre appareil pour le ciblage publicitaire et la limitation de la fréquence d'exposition
+ID publicitaire  l'IDFA (iOS) Android (AAID)	Identification de votre appareil pour le ciblage publicitaire et la limitation de la fréquence d'exposition
 Adresse IP	Géolocalisation approximative pour la pertinence des publicités et la prévention de la fraude
 Modèle d'appareil, version de l'OS	Garantie de la compatibilité des publicités
 Données d'interaction avec l'application	Mesure des performances publicitaires et attribution
@@ -319,12 +328,14 @@ Répondre aux demandes d'assistance	Intérêt légitime
 Nous ne vendons pas vos données personnelles à des tiers.
 
 3. Services tiers
-Service	Fournisseur	Finalité	Politique de confidentialité
-Google Play & Facturation	Google LLC, USA	Distribution de l'application, achats intégrés	https://policies.google.com/privacy
-Google Play Jeux	Google LLC, USA	Sauvegarde cloud facultative	https://policies.google.com/privacy
-SDK Google Mobile Ads	Google LLC, USA	Médiation publicitaire et consentement UMP	https://policies.google.com/privacy
-AppLovin MAX	AppLovin Corp., USA	Diffusion de publicités et médiation	https://www.applovin.com/privacy/
-Nous ne sommes pas responsables des pratiques de traitement des données de ces tiers.
+Google Play & Facturation	Google LLC, USA	Distribution de l'application et achats intégrés (Android)	Confidentialité Google
+App Store & Facturation	Apple Inc., USA	Distribution de l'application et achats intégrés (iOS)	Confidentialité Apple
+Google Play Jeux	Google LLC, USA	Sauvegarde cloud facultative de la progression (Android)	Confidentialité Google
+Apple Game Center	Apple Inc., USA	Sauvegarde cloud facultative de la progression (iOS)	Confidentialité Apple
+SDK Google Mobile Ads	Google LLC, USA	Médiation publicitaire et gestion du consentement UMP	Confidentialité Google
+AppLovin MAX	AppLovin Corp., USA	Diffusion de publicités et régie publicitaire	Confidentialité AppLovin
+RevenueCat	RevenueCat, Inc., USA	Gestion, synchronisation et validation des achats In-App	Confidentialité RevenueCat
+Google Firebase	Google LLC, USA	Analyses statistiques anonymes et rapports de plantage	Confidentialité Firebase
 
 4. Transferts de données internationaux
 AppLovin Corporation et Google LLC ont leur siège social aux États-Unis. Lorsque ces services collectent des données auprès d'utilisateurs situés dans l'Espace économique européen, ces données sont transférées aux États-Unis.
